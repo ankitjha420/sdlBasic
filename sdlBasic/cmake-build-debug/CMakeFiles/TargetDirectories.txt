@@ -1,0 +1,3 @@
+C:/Users/ankit.jha/CLionProjects/sdlBasic/cmake-build-debug/CMakeFiles/sdlBasic.dir
+C:/Users/ankit.jha/CLionProjects/sdlBasic/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ankit.jha/CLionProjects/sdlBasic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
